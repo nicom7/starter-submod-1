@@ -1,2 +1,4 @@
 test submodule file 1
 more test text
+
+test after submodule include
