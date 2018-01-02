@@ -3,4 +3,4 @@ more test text
 
 test after submodule include
 
-test before tag
+test after tag
